@@ -1,6 +1,5 @@
-SPR500 Section A 2020 Fall Semester Domain List
------------------------------------------------
-
+SPR500 Section A 2020 fall Domain List
+--------------------------------------
 Registed Domain Name: aaa.com 
   Member list:
     Network Number: 19 Seneca Name: aman6
@@ -22,7 +21,7 @@ Registed Domain Name: eh.com
   Member list:
     Network Number: 3 Seneca Name: enaypek
     Network Number: 8 Seneca Name: dganko
-    Network Number: 5 Seneca Name: bbrossard
+    Network Number: 25 Seneca Name: kpathmaraj
 ============================================================
 Registed Domain Name: kgma.tech 
   Member list:
@@ -51,12 +50,42 @@ Registed Domain Name: sbinalla.com
     Network Number: 22 Seneca Name: hnnghiem
     Network Number: 24 Seneca Name: eeparreno
 ============================================================
-Registed Domain Name: solo.com 
-  Member list:
-    Network Number: 16 Seneca Name: eeleung
-    Network Number: 25 Seneca Name: kpathmaraj
-============================================================
 Registed Domain Name: sp.com 
   Member list:
+    Network Number: 16 Seneca Name: eeleung
+    Network Number: 21 Seneca Name: sknasser1
     Network Number: 28 Seneca Name: ashahzad6
+    Network Number: 23 Seneca Name: anguyen83
 ============================================================
+Domain assignment for each student:
+<<<<<<<<<<<<<<<<< >>>>>>>>>>>>>>>>>
+1 ('abdulkarim1', 'ns.com ')
+2 ('alalmendarez', 'aaa.com ')
+3 ('enaypek', 'eh.com ')
+4 ('tbrecher', 'aurora-cdt.com ')
+5 ('bbrossard', 'sbinalla.com ')
+6 ('cde-pano', 'kgma.tech ')
+7 ('adu3', 'aaa.com ')
+8 ('dganko', 'eh.com ')
+9 ('algarcia1', 'ai.com ')
+10 ('hgrewal25', 'kgma.tech ')
+11 ('chalioua', 'ns.com ')
+12 ('zhonderich', 'ravz.com ')
+13 ('rjacinto1', 'ravz.com ')
+14 ('hjameel1', 'ns.com ')
+15 ('vkim11', 'ravz.com ')
+16 ('eeleung', 'sp.com ')
+17 ('aluk10', 'ravz.com ')
+18 ('kgma', 'kgma.tech ')
+19 ('aman6', 'aaa.com ')
+20 ('cmascarinas', 'aurora-cdt.com ')
+21 ('sknasser1', 'sp.com ')
+22 ('hnnghiem', 'sbinalla.com ')
+23 ('anguyen83', 'sp.com ')
+24 ('eeparreno', 'sbinalla.com ')
+25 ('kpathmaraj', 'eh.com ')
+26 ('ljrafols', 'kgma.tech ')
+27 ('drulyov', 'aurora-cdt.com ')
+28 ('ashahzad6', 'sp.com ')
+29 ('iyusuf1', 'ai.com ')
+30 ('yzhang689', 'kgma.tech ')

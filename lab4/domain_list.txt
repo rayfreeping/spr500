@@ -1,0 +1,62 @@
+SPR500 Section A 2020 Fall Semester Domain List
+-----------------------------------------------
+
+Registed Domain Name: aaa.com 
+  Member list:
+    Network Number: 19 Seneca Name: aman6
+    Network Number: 7 Seneca Name: adu3
+    Network Number: 2 Seneca Name: alalmendarez
+============================================================
+Registed Domain Name: ai.com 
+  Member list:
+    Network Number: 9 Seneca Name: algarcia1
+    Network Number: 29 Seneca Name: iyusuf1
+============================================================
+Registed Domain Name: aurora-cdt.com 
+  Member list:
+    Network Number: 4 Seneca Name: tbrecher
+    Network Number: 20 Seneca Name: cmascarinas
+    Network Number: 27 Seneca Name: drulyov
+============================================================
+Registed Domain Name: eh.com 
+  Member list:
+    Network Number: 3 Seneca Name: enaypek
+    Network Number: 8 Seneca Name: dganko
+    Network Number: 5 Seneca Name: bbrossard
+============================================================
+Registed Domain Name: kgma.tech 
+  Member list:
+    Network Number: 6 Seneca Name: cde-pano
+    Network Number: 10 Seneca Name: hgrewal25
+    Network Number: 18 Seneca Name: kgma
+    Network Number: 26 Seneca Name: ljrafols
+    Network Number: 30 Seneca Name: yzhang689
+============================================================
+Registed Domain Name: ns.com 
+  Member list:
+    Network Number: 11 Seneca Name: chalioua
+    Network Number: 14 Seneca Name: hjameel1
+    Network Number: 1 Seneca Name: abdulkarim1
+============================================================
+Registed Domain Name: ravz.com 
+  Member list:
+    Network Number: 12 Seneca Name: zhonderich
+    Network Number: 13 Seneca Name: rjacinto1
+    Network Number: 15 Seneca Name: vkim11
+    Network Number: 17 Seneca Name: aluk10
+============================================================
+Registed Domain Name: sbinalla.com 
+  Member list:
+    Network Number: 5 Seneca Name: bbrossard
+    Network Number: 22 Seneca Name: hnnghiem
+    Network Number: 24 Seneca Name: eeparreno
+============================================================
+Registed Domain Name: solo.com 
+  Member list:
+    Network Number: 16 Seneca Name: eeleung
+    Network Number: 25 Seneca Name: kpathmaraj
+============================================================
+Registed Domain Name: sp.com 
+  Member list:
+    Network Number: 28 Seneca Name: ashahzad6
+============================================================

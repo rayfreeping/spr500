@@ -1,0 +1,22 @@
+Nov 21 21:06:40 lab_server postfix/postfix-script[32259]: starting the Postfix mail system
+Nov 21 21:06:40 lab_server postfix/master[32261]: daemon started -- version 3.3.1, configuration /etc/postfix
+Nov 21 21:42:35 lab_server postfix/smtpd[32297]: connect from unknown[172.16.1.3]
+Nov 21 21:42:35 lab_server postfix/smtpd[32297]: A903630D2FE9: client=unknown[172.16.1.3]
+Nov 21 21:42:35 lab_server postfix/cleanup[32302]: A903630D2FE9: message-id=<20201122012308.CF42F103B28A@mail.ns.com>
+Nov 21 21:42:35 lab_server postfix/qmgr[32263]: A903630D2FE9: from=<instructor@ns.com>, size=625, nrcpt=1 (queue active)
+Nov 21 21:42:35 lab_server postfix/smtpd[32297]: disconnect from unknown[172.16.1.3] ehlo=2 starttls=1 mail=1 rcpt=1 data=1 quit=1 commands=7
+Nov 21 21:42:35 lab_server postfix/local[32303]: A903630D2FE9: to=<instructor@cp.net>, relay=local, delay=0.04, delays=0.02/0.01/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Nov 21 21:42:35 lab_server postfix/qmgr[32263]: A903630D2FE9: removed
+Nov 21 21:45:55 lab_server postfix/anvil[32300]: statistics: max connection rate 1/60s for (smtp:172.16.1.3) at Nov 21 21:42:35
+Nov 21 21:45:55 lab_server postfix/anvil[32300]: statistics: max connection count 1 for (smtp:172.16.1.3) at Nov 21 21:42:35
+Nov 21 21:45:55 lab_server postfix/anvil[32300]: statistics: max cache size 1 at Nov 21 21:42:35
+Nov 21 22:10:46 lab_server postfix/smtpd[32685]: connect from unknown[172.16.1.3]
+Nov 21 22:10:46 lab_server postfix/smtpd[32685]: 82B4930A5E06: client=unknown[172.16.1.3]
+Nov 21 22:10:46 lab_server postfix/cleanup[32689]: 82B4930A5E06: message-id=<20201122031045.56BCB103A46D@mail.ns.com>
+Nov 21 22:10:46 lab_server postfix/qmgr[32263]: 82B4930A5E06: from=<spr5g6@ns.com>, size=839, nrcpt=1 (queue active)
+Nov 21 22:10:46 lab_server postfix/smtpd[32685]: disconnect from unknown[172.16.1.3] ehlo=2 starttls=1 mail=1 rcpt=1 data=1 quit=1 commands=7
+Nov 21 22:10:46 lab_server postfix/local[32690]: 82B4930A5E06: to=<instructor@cp.net>, relay=local, delay=0.03, delays=0.02/0.01/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Nov 21 22:10:46 lab_server postfix/qmgr[32263]: 82B4930A5E06: removed
+Nov 21 22:14:06 lab_server postfix/anvil[32687]: statistics: max connection rate 1/60s for (smtp:172.16.1.3) at Nov 21 22:10:46
+Nov 21 22:14:06 lab_server postfix/anvil[32687]: statistics: max connection count 1 for (smtp:172.16.1.3) at Nov 21 22:10:46
+Nov 21 22:14:06 lab_server postfix/anvil[32687]: statistics: max cache size 1 at Nov 21 22:10:46

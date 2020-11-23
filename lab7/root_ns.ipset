@@ -1,0 +1,14 @@
+create root_ns hash:ip family inet hashsize 1024 maxelem 65536
+add root_ns 199.7.83.42
+add root_ns 199.7.91.13
+add root_ns 192.36.148.17
+add root_ns 192.112.36.4
+add root_ns 193.0.14.129
+add root_ns 192.58.128.30
+add root_ns 199.9.14.201
+add root_ns 202.12.27.33
+add root_ns 192.33.4.12
+add root_ns 192.5.5.241
+add root_ns 198.41.0.4
+add root_ns 192.203.230.10
+add root_ns 198.97.190.53

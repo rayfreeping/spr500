@@ -1,1 +1,29 @@
-29
+21:25:20.257684 IP 172.16.1.3.59516 > lab_server.smtp: Flags [S], seq 3902176230, win 29200, options [mss 1460,sackOK,TS val 1198891818 ecr 0,nop,wscale 7], length 0
+21:25:20.257740 IP lab_server.smtp > 172.16.1.3.59516: Flags [S.], seq 686165436, ack 3902176231, win 28960, options [mss 1460,sackOK,TS val 4046618204 ecr 1198891818,nop,wscale 7], length 0
+21:25:20.257814 IP 172.16.1.3.59516 > lab_server.smtp: Flags [.], ack 1, win 229, options [nop,nop,TS val 1198891818 ecr 4046618204], length 0
+21:25:20.304658 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 1:32, ack 1, win 227, options [nop,nop,TS val 4046618251 ecr 1198891818], length 31: SMTP: 220 mail.cp.net ESMTP Postfix
+21:25:20.304803 IP 172.16.1.3.59516 > lab_server.smtp: Flags [.], ack 32, win 229, options [nop,nop,TS val 1198891865 ecr 4046618251], length 0
+21:25:20.304877 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 1:19, ack 32, win 229, options [nop,nop,TS val 1198891865 ecr 4046618251], length 18: SMTP: EHLO mail.ns.com
+21:25:20.304890 IP lab_server.smtp > 172.16.1.3.59516: Flags [.], ack 19, win 227, options [nop,nop,TS val 4046618252 ecr 1198891865], length 0
+21:25:20.305023 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 32:180, ack 19, win 227, options [nop,nop,TS val 4046618252 ecr 1198891865], length 148: SMTP: 250-mail.cp.net
+21:25:20.305135 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 19:29, ack 180, win 237, options [nop,nop,TS val 1198891865 ecr 4046618252], length 10: SMTP: STARTTLS
+21:25:20.305170 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 180:210, ack 29, win 227, options [nop,nop,TS val 4046618252 ecr 1198891865], length 30: SMTP: 220 2.0.0 Ready to start TLS
+21:25:20.305765 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 29:546, ack 210, win 237, options [nop,nop,TS val 1198891866 ecr 4046618252], length 517: SMTP
+21:25:20.318325 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 210:2589, ack 546, win 235, options [nop,nop,TS val 4046618265 ecr 1198891866], length 2379: SMTP
+21:25:20.318429 IP 172.16.1.3.59516 > lab_server.smtp: Flags [.], ack 2589, win 274, options [nop,nop,TS val 1198891879 ecr 4046618265], length 0
+21:25:20.319301 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 546:626, ack 2589, win 274, options [nop,nop,TS val 1198891880 ecr 4046618265], length 80: SMTP
+21:25:20.319544 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 2589:2844, ack 626, win 235, options [nop,nop,TS val 4046618266 ecr 1198891880], length 255: SMTP
+21:25:20.319612 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 626:666, ack 2844, win 297, options [nop,nop,TS val 1198891880 ecr 4046618266], length 40: SMTP
+21:25:20.319634 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 2844:3099, ack 666, win 235, options [nop,nop,TS val 4046618266 ecr 1198891880], length 255: SMTP
+21:25:20.360196 IP 172.16.1.3.59516 > lab_server.smtp: Flags [.], ack 3099, win 319, options [nop,nop,TS val 1198891920 ecr 4046618266], length 0
+21:25:20.360252 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 3099:3255, ack 666, win 235, options [nop,nop,TS val 4046618307 ecr 1198891920], length 156: SMTP
+21:25:20.360338 IP 172.16.1.3.59516 > lab_server.smtp: Flags [.], ack 3255, win 342, options [nop,nop,TS val 1198891921 ecr 4046618307], length 0
+21:25:20.360470 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 666:794, ack 3255, win 342, options [nop,nop,TS val 1198891921 ecr 4046618307], length 128: SMTP
+21:25:20.384515 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 3255:3342, ack 794, win 243, options [nop,nop,TS val 4046618331 ecr 1198891921], length 87: SMTP
+21:25:20.384718 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 794:1263, ack 3342, win 342, options [nop,nop,TS val 1198891945 ecr 4046618331], length 469: SMTP
+21:25:20.386895 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 3342:3417, ack 1263, win 252, options [nop,nop,TS val 4046618334 ecr 1198891945], length 75: SMTP
+21:25:20.387084 IP 172.16.1.3.59516 > lab_server.smtp: Flags [P.], seq 1263:1287, ack 3417, win 342, options [nop,nop,TS val 1198891947 ecr 4046618334], length 24: SMTP
+21:25:20.387148 IP lab_server.smtp > 172.16.1.3.59516: Flags [P.], seq 3417:3441, ack 1287, win 252, options [nop,nop,TS val 4046618334 ecr 1198891947], length 24: SMTP
+21:25:20.387248 IP lab_server.smtp > 172.16.1.3.59516: Flags [F.], seq 3441, ack 1287, win 252, options [nop,nop,TS val 4046618334 ecr 1198891947], length 0
+21:25:20.388184 IP 172.16.1.3.59516 > lab_server.smtp: Flags [F.], seq 1287, ack 3442, win 342, options [nop,nop,TS val 1198891949 ecr 4046618334], length 0
+21:25:20.388201 IP lab_server.smtp > 172.16.1.3.59516: Flags [.], ack 1288, win 252, options [nop,nop,TS val 4046618335 ecr 1198891949], length 0
